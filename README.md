@@ -222,4 +222,4 @@ Dreamweaver is offered as a complete free version with all features and updates 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-02 10:11:20 UTC
+**Last updated:** 2026-10-02 16:26:00 UTC
